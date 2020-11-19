@@ -1,0 +1,37 @@
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\bin\Debug\netcoreapp3.1\MONDPH Portal.exe
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\bin\Debug\netcoreapp3.1\MONDPH Portal.deps.json
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\bin\Debug\netcoreapp3.1\MONDPH Portal.runtimeconfig.json
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\bin\Debug\netcoreapp3.1\MONDPH Portal.runtimeconfig.dev.json
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\bin\Debug\netcoreapp3.1\MONDPH Portal.dll
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\bin\Debug\netcoreapp3.1\MONDPH Portal.pdb
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\bin\Debug\netcoreapp3.1\MONDPH Portal.Views.dll
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\bin\Debug\netcoreapp3.1\MONDPH Portal.Views.pdb
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\MONDPH Portal.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\MONDPH Portal.AssemblyInfoInputs.cache
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\MONDPH Portal.AssemblyInfo.cs
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\MONDPH Portal.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\MONDPH Portal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\MONDPH Portal.RazorAssemblyInfo.cache
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\MONDPH Portal.RazorAssemblyInfo.cs
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\MONDPH Portal.TagHelpers.input.cache
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\MONDPH Portal.TagHelpers.output.cache
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\MONDPH Portal.RazorCoreGenerate.cache
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\MONDPH Portal.RazorTargetAssemblyInfo.cache
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\MONDPH Portal.RazorTargetAssemblyInfo.cs
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\MONDPH Portal.Views.pdb
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\staticwebassets\MONDPH Portal.StaticWebAssets.Manifest.cache
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\staticwebassets\MONDPH Portal.StaticWebAssets.xml
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\MONDPH Portal.dll
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\MONDPH Portal.pdb
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\MONDPH Portal.genruntimeconfig.cache
+C:\Users\bryan\source\repos\MONDPH Portal\MONDPH Portal\obj\Debug\netcoreapp3.1\MONDPH Portal.csproj.CopyComplete
